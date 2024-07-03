@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MARCIO-COSTA93 I have a degree in Electronic Engineering and also in Computer Systems.
-- 👀 I’m interested in Data Science, Data Engineering and Database.
+- 👀 I’m interested in Data Science, Data Engineering , Database and AI.
 -  Lato Sensu Postgraduate Specialization in Project and Business Management in Information Technology
 -  Studying a master's degree in Computer Science with a focus on Ubiquitous Computing and Artificial Intelligence
 - 🌱 I’m currently learning Python ,Java and Halide
