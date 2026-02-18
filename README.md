@@ -1,5 +1,5 @@
 -  Hi, I’m @MARCIO-COSTA93 I have a degree in Electronic Engineering and also in Computer Systems (UFF).
-- 👀 I’m interested in Embedded Systems ,Data Science, Data Engineering , Database and AI.
+-  I’m interested in Embedded Systems ,Data Science, Data Engineering , Database and AI.
 -  Lato Sensu Postgraduate Specialization in Project and Business Management in Information Technology.
 -  Lato Sensu Postgraduate Specialization in Networks and Distributed Computing.
 -  Lato Sensu Postgraduate Specialization in Internet of Things - IoT Specialization
